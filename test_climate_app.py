@@ -1,3 +1,9 @@
+# This file is for local development testing only
+# Run locally with: pytest test_climate_app.py -v
+# 
+# Note: pytest is NOT included in requirements.txt as it's only needed for development
+# Streamlit Cloud will not execute this file
+
 """
 Climate Risk Assessment - Testing Module
 Unit tests for the climate risk assessment application
