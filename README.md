@@ -220,7 +220,7 @@ MIT License - See LICENSE file for details
 
 ## 👤 Author
 
-**msc-020-22** - Climate Risk Assessment Project
+**msc-020-22 Jonathan zimunya** - Climate Risk Assessment Project
 
 ## 🤝 Contributing
 
